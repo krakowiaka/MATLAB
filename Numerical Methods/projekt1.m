@@ -8,7 +8,7 @@ plot(x,T);
 hold on;
 xlabel('x');
 ylabel('T(x)');
-title('Wykres 1.: Wsp髄czynnik T(x)');
+title('Wykres 1.: Wsp贸lczynnik T(x)');
 grid on;
 
 %%K1
@@ -18,7 +18,7 @@ plot(x,K1);
 hold on;
 xlabel('x');
 ylabel('K1(x)');
-title('Wykres 2.: Wsp髄czynnik K1(x)');
+title('Wykres 2.: Wsp贸lczynnik K1(x)');
 grid on;
  
 %%K2
@@ -28,7 +28,7 @@ plot(x,K2);
 hold on;
 xlabel('x');
 ylabel('K2(x)');
-title('Wykres 3.: Wsp髄czynnik K2(x)');
+title('Wykres 3.: Wsp贸lczynnik K2(x)');
 grid on;
 
 %%K3
@@ -38,7 +38,7 @@ plot(x,K3);
 hold on;
 xlabel('x');
 ylabel('K3(x)');
-title('Wykres 4.: Wsp髄czynnik K3(x)');
+title('Wykres 4.: Wsp贸lczynnik K3(x)');
 grid on;
  
 %%K4
@@ -48,7 +48,7 @@ plot(x,K4);
 hold on;
 xlabel('x');
 ylabel('K4(x)');
-title('Wykres 5.: Wsp髄czynnik K4(x)');
+title('Wykres 5.: Wsp贸lczynnik K4(x)');
 grid on;
  
 %%K5
@@ -58,7 +58,7 @@ plot(x,K5);
 hold on;
 xlabel('x');
 ylabel('K5(x)');
-title('Wykres 6.: Wsp髄czynnik K5(x)');
+title('Wykres 6.: Wsp贸lczynnik K5(x)');
 grid on;
  
  
